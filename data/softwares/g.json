@@ -54,5 +54,31 @@
         ]
       }
     ]
+  },
+  {
+    "id": "game",
+    "names": {
+      "en": "Generative Adaptive MIDI Extractor."
+    },
+    "category": "host_extension",
+    "developers": [
+      "Team OpenVPI"
+    ],
+    "homepage_url": "https://github.com/openvpi/GAME",
+    "download_page_url": null,
+    "tags": [
+      "oudep"
+    ],
+    "versions": [
+      {
+        "version": "1.0.3-medium",
+        "mirrors": [
+          {
+            "url": "https://github.com/openvpi/GAME/releases/download/oudep/GAME-1.0.3-medium.oudep",
+            "hash": "sha256:d7bda232352ee5cf275e54e58950401357902a99a8fb54e4dbb9b26ee63752e3"
+          }
+        ]
+      }
+    ]
   }
 ]
