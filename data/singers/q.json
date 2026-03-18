@@ -1,0 +1,34 @@
+[
+  {
+    "id": "qixuan",
+    "names": {
+      "en": "Qixuan",
+      "zh": "绮萱"
+    },
+    "owners": [
+      "DiffSinger Community"
+    ],
+    "authors": [
+      "yqzhishen"
+    ],
+    "variants": [
+      {
+        "id": "qixuan-2-7-0",
+        "names": {
+          "en": "Qixuan_v2.7.0",
+          "zh": "绮萱_v2.7.0"
+        },
+        "file_url": "https://github.com/yqzhishen/qixuan-diffsinger/releases/download/v2.7.0/Qixuan_v2.7.0_DiffSinger_OpenUtau.zip",
+        "download_page_url": "https://github.com/yqzhishen/qixuan-diffsinger/releases/tag/v2.7.0",
+        "tags": [
+          "diffsinger",
+          "lang:zh",
+          "lang:en",
+          "lang:ja"
+        ]
+      }
+    ],
+    "homepage_url": "https://github.com/yqzhishen/qixuan-diffsinger",
+    "profile_image_url": "https://github.com/yqzhishen/qixuan-diffsinger/releases/download/v2.7.0/qixuan256x256.png"
+  }
+]
