@@ -9,8 +9,21 @@
       "Dream-High",
       "yxlllc"
     ],
+    "homepage_url": null,
+    "download_page_url": null,
     "tags": [
       "oudep"
+    ],
+    "versions": [
+      {
+        "version": "230917",
+        "mirrors": [
+          {
+            "url": "https://github.com/yqzhishen/RMVPE/releases/download/230917/rmvpe.oudep",
+            "hash": "sha256:186194e1fdfbf7c19366b90d79642caef0f785f12f56b2ec54994a364c494682"
+          }
+        ]
+      }
     ]
   }
 ]
